@@ -1,2 +1,11 @@
+2021-09-20 [MON]
+    General class discussion
+        Coffee shop background noise https://coffitivity.com/ 
+
 2021-09-21 [TUE]
-    
+    General class discussion
+        Code practice resources (job interview assessment prep and general practice)
+            - Hacker rank
+            - Codewars
+    Instruction
+        How to join an existing GIT repo (use: future group projects)

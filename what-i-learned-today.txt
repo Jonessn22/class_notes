@@ -9,3 +9,17 @@
             - Codewars
     Instruction
         How to join an existing GIT repo (use: future group projects)
+        Lesson
+            - Concatenating SQL strings
+            - Selecting SQL substrings
+                - Negative index (pulling from end of string)
+            - Replacing SQL objects in strings
+
+2021-09-23 [THU]
+	Subqueries return a list (not a single value), so use IN not = 
+	Put join statement before subquery
+
+2021-09-28 [TUE]
+	z score = (x - avg(x)) / stddev(x)
+
+	when ? has 'for each' or 'each' 'y' will likely use group by 'y' (and you want y in the select statement)
